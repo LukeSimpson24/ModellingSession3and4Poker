@@ -77,4 +77,4 @@ while matches < 10: # loops until it finds 10 straights
         print(hand)
     count += 1 # after every hand increase count by 1 (straight or not)
 
-print(f"probability of a full straight is {100*matches/count}%") # frequency of straight
+print(f"probability of a full straight is {100*matches/count}%") # frequency of straight to come up

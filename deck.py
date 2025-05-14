@@ -53,4 +53,4 @@ if __name__ == "__main__":
     print(deck) # prints deck in order
     deck.shuffle() # shuffles the deck
     print(deck) # prints the deck again (now shuffled)
-    print(deck.deal()) # deal removes first card and prints it
+    print(deck.deal()) # deal removes first card and prints
